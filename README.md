@@ -1,6 +1,5 @@
-# best-sugargoo-spreadsheet-2026
-Best sugargoo spreadsheet with 10,000+ items. Organized links for shoes, clothing, and accessories. Easy way to build hauls faster.
 # Best Sugargoo Spreadsheet 2026
+Best sugargoo spreadsheet with 10,000+ items. Organized links for shoes, clothing, and accessories. Easy way to build hauls faster.
 
 If you're trying to build a haul without wasting time searching item by item, using a spreadsheet can make things much easier.
 
